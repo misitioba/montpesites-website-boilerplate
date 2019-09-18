@@ -9,11 +9,12 @@ yarn
 ## Development
 
 ````js
-ms --server --watch
+ms --dev --port 3000//to serve and watch for changes
 ````
 
 ## Production
 
 ````js
-ms --build
+ms --serve --port 3000 //to serve
+ms --build //to generate static files only
 ````
