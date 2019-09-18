@@ -10,6 +10,7 @@ yarn
 
 ````js
 ms --dev --port 3000//to serve and watch for changes
+ms //same as ms --dev
 ````
 
 ## Production
